@@ -1,3 +1,2 @@
-# Google-Clone-byFrans
-# Google-Clone-byFrans
-# Google-Clone-byFrans
+# Clone Inicio Google
+https://franschavez.github.io/Clone-Inicio-Google/
